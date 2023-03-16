@@ -45,7 +45,7 @@ The 8th error shows unnecessary use of else as we have to return only then it do
 
 
 
-**For first Example 2 error detected-**
+**For Second Example error detected-**
 
 ![image](https://user-images.githubusercontent.com/124246644/225584508-5e2608e4-56e2-4f27-a7b5-bb3f3128eb8d.png)
 
